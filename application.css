@@ -10,9 +10,9 @@
 }
 
 .form-mailchimp {
+  border: 1px solid #999;
+  padding: 10px;
   max-width: 100%;
-  height: 100px;
-  background: #999;
   margin-bottom: 20px;
 }
 
