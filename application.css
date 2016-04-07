@@ -1,3 +1,7 @@
+a {
+  color: #0052A5 !important;
+}
+
 .page-width {
   max-width: 500px;
   margin: 0 auto;
@@ -23,4 +27,8 @@
 .logo-img {
   max-width: 100%;
   margin: 40px 0 40px;
+}
+
+#mc-embedded-subscribe {
+  background-color: #0052A5 !important;
 }
